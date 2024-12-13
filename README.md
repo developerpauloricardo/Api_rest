@@ -1,6 +1,6 @@
 # CRUD de Usuários com Express e MongoDB
 
-Este projeto é uma API RESTful dedicada ao gerenciamento de usuários, desenvolvida utilizando Node.js como tecnologia principal, o framework Express para a criação de rotas e a manipulação de requisições, além do banco de dados MongoDB para o armazenamento de informações. Ele oferece uma solução eficiente e escalável para operações relacionadas a usuários, incluindo criação, leitura, atualização e exclusão (CRUD).
+Este projeto é uma API REST dedicada ao gerenciamento de usuários, desenvolvida utilizando Node.js como tecnologia principal, o framework Express para a criação de rotas e a manipulação de requisições, além do banco de dados MongoDB para o armazenamento de informações. Ele oferece uma solução eficiente e escalável para operações relacionadas a usuários, incluindo criação, leitura, atualização e exclusão (CRUD).
 
 ## 📋 Funcionalidades
 
